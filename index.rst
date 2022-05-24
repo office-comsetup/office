@@ -10,17 +10,20 @@ Office.com/setup
 ##################
 
 
+
+
 Download, install, reinstall or activate microsoft office setup from `office.com/setup <http://officecom-setup.s3-website-us-west-1.amazonaws.com>`_ using **office setup product key** or office activation code.
 
-.. image::     
-:width: 500px    
-:align: center    
-:height: 100px    
-:alt: Office.com/setup
-    
-:target: http://canoncom.ijsetup.s3-website-us-west-
 
-1.amazonaws.com
+.. image:: Get-Started.png
+    :width: 500px
+    :align: center
+    :height: 100px
+    :alt: ij.start.cannon
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    
+
+
 
 
 Activate your office setup with **25-digit product key**. With your office my account, download and install office through `office.com/setup <http://officecom-setup.s3-website-us-west-1.amazonaws.com>`_ you can manage your all office services like subscriptions and order history.
