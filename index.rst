@@ -20,7 +20,7 @@ Download, install, reinstall or activate microsoft office setup from `office.com
     :align: center
     :height: 100px
     :alt: ij.start.cannon
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: http://officecom-setup.s3-website-us-west-1.amazonaws.com
     
 
 
